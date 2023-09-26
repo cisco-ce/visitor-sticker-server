@@ -1,0 +1,5 @@
+*.pdf
+__pycache__/
+config.json
+visitors.db
+sticker.pdf

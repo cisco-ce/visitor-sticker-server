@@ -1,0 +1,4 @@
+{
+    "botToken": "<botToken>",
+    "printCommand": "lp -d <device> -o landscape"
+}
