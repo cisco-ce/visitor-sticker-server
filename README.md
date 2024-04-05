@@ -1,4 +1,4 @@
-# Creating a visitor registration system with Cisco Desk Pro
+# Visitor registration system with Cisco Desk device
 
 * Create your visitor web app, or fork this one:
   https://cisco-ce.github.io/roomos-samples/visitor-kiosk/ (demo)
