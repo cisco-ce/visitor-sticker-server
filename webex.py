@@ -28,7 +28,7 @@ async def searchForPerson(name):
             return result['items']
 
 if __name__ == "__main__":
-    recipient = 'tbjolset@cisco.com'
+    recipient = 'someone@example.cisco.com'
     host = 'tore bjol'
     asyncio.run(searchForPerson(host))
     text = 'Test **msg** from Visitor registration bot'
